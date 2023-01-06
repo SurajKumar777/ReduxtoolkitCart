@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.foodContainer {
+    margin-top: 100px;
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+}
